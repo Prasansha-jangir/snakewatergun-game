@@ -59,6 +59,7 @@ int main(){
     else{
         printf("you have lost the game!\n");
     }
+    //this is just a simple game for beginners learning c language
  
     return 0;
 }
